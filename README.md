@@ -2,7 +2,7 @@
 
 this reepo for me to learn git yahoo
 
-okay
+hello1
 
 j dqqwh c
 hello 7
